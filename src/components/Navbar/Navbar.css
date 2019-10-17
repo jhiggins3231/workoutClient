@@ -1,0 +1,11 @@
+#piePic {
+    height: 100px;
+    width: 175px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #A2E3C4;
+}
